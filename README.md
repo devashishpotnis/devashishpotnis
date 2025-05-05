@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MEAN stack**
 
-- 💬 Ask me about **C,C++,Java,TypeScript**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **devashishpotnis.work@gmail.com**
 
